@@ -47,8 +47,8 @@ http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fs
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/mtv.png",MTV
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=202&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东HD.png",广东卫视高清
-rtp://239.77.0.84:5146
+#EXTINF:-1,tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东HD.png",广东卫视高清
+rtp://239.77.0.1:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东珠江.png",广东珠江高清
 rtp://239.77.0.1:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东体育.png",广东体育高清
