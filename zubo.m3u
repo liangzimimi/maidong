@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="http://img.sj33.cn/uploads/allimg/200801/20080106235808639.png",CCTV1高清
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/nokia197s/guangdongitv/master/logo/cctv1.jpg",CCTV1高清
 rtp://239.77.0.86:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv2HD.png",CCTV-2高清测试
 rtp://239.77.0.137:5146
