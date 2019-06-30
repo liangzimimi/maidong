@@ -4,11 +4,11 @@ rtp://239.77.0.86:5146
 #EXTINF:-1,tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2019/02/download.jpg",CCTV-2高清测试
 rtp://239.77.0.137:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv3HD.png",CCTV3
-rtp://239.77.0.175:5146
+udp://@239.77.0.175:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv4HD.png",CCTV4中文国际
-rtp://239.77.1.163:5146
+udp://@239.77.1.163:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5HD.png",CCTV5
-rtp://239.77.0.170:5146
+udp://@239.77.0.170:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5+HD.png",CCTV5+
 rtp://239.77.0.87:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv6HD.png",CCTV6
