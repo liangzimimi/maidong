@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png" group-title="中央卫视",CCTV1高清
+#EXTINF:-1,tvg-logo="http://img.sj33.cn/uploads/allimg/200801/20080106235808639.png",CCTV1高清
 rtp://239.77.0.86:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv2HD.png" group-title="中央卫视",CCTV-2高清测试
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv2HD.png",CCTV-2高清测试
 rtp://239.77.0.137:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv3HD.png" group-title="中央卫视",CCTV3
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv3HD.png",CCTV3
 rtp://239.77.0.175:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv4HD.png",CCTV4中文国际
 rtp://239.77.1.163:5146
