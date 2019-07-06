@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",CCTV1高清
-rtp://@239.77.1.17:5146
+unp://@239.77.1.17:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv2HD.png",CCTV-2高清测试
-rtp://@239.77.0.137:5146
+unp://@239.77.0.137:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv3HD.png",CCTV3
 rtp://@239.77.0.175:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv4HD.png",CCTV4中文国际
@@ -16,7 +16,7 @@ rtp://@239.77.0.171:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv7HD.png",CCTV7高清测试
 rtp://@239.77.0.138:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv8HD.png",CCTV8
-rtp://@239.77.0.172:5146
+rtp://@239.77.0.181:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv9HD.png",CCTV9高清测试
 rtp://@239.77.0.135:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv10HD.png",CCTV10高清测试
@@ -29,7 +29,7 @@ rtp://@239.77.0.136:5146
 rtp://@239.77.0.190:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv14HD.png",CCTV14高清测试
 rtp://@239.77.0.133:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",CCTV15高清
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv15HD.png",CCTV15高清
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=54&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/珠海1.png",珠海1高清
 rtp://@239.77.0.155:5146
@@ -68,7 +68,7 @@ rtp://@239.77.0.92:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/山东HD.png",山东卫视高清
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=005&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/四川HD.png",四川卫视高清
-http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=000&Provider_id=&Pcontent_id=index.m3u8
+rtp://@239.77.0.159:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/重庆HD.png",重庆卫视高清
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/安徽HD.png",安徽卫视高清
@@ -109,11 +109,11 @@ rtp://@239.77.0.7:5146
 rtp://@239.77.0.85:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/南方卫视.png",南方卫视
 rtp://@239.77.0.9:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东.png",广东综艺
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/延边卫视.png",延边卫视
 rtp://@239.77.0.10:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东.png",广东影视
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=240&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东少儿.png",广东少儿
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/TVS5.png",广东少儿
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=232&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/guangdongfangchan.png",房产频道
 rtp://@239.77.0.14:5146
