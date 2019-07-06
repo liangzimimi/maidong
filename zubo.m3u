@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",CCTV1高清
-unp://@239.77.1.17:5146
+rtp://@239.77.1.17:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv2HD.png",CCTV-2高清测试
-unp://@239.77.0.137:5146
+rtp://@239.77.0.137:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv3HD.png",CCTV3
 rtp://@239.77.0.175:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv4HD.png",CCTV4中文国际
@@ -331,6 +331,8 @@ rtp://@239.77.1.247:5146
 rtp://@239.77.1.249:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",@大健康
 rtp://@239.77.1.250:5146
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/茶频道.png",茶频道
+rtp://@239.77.1.207:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngj.png",湖南国际
 http://124.232.231.246:6610/000000001001/201600020001/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanWorld
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hnjs.png",湖南经视
