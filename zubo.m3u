@@ -345,6 +345,60 @@ http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?version=v1.0&IAS
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanTeleplay
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",湖南公共
 http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanPublic
+#EXTINF:-1 ,上海新闻综合
+http://hw-stream.kksmg.com/hls/channel1091/index.m3u8
+#EXTINF:-1 ,上海都市
+http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.m3u8
+#EXTINF:-1 ,上海外语ICS
+http://hw-stream.kksmg.com/hls/channel1081/index.m3u8
+#EXTINF:-1 ,上海艺术人文
+http://hw-stream.kksmg.com/hls/channel1071/index.m3u8
+#EXTINF:-1 ,第一财经
+http://hw-stream.kksmg.com/hls/channel1101/index.m3u8
+#EXTINF:-1 ,上海教育
+http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+#EXTINF:-1 ,四川文化
+http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
+#EXTINF:-1 ,四川新闻
+http://scgctvshow.sctv.com/hdlive/sctv4/3.m3u8
+#EXTINF:-1 ,四川经济
+http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
+#EXTINF:-1 ,四川影视
+http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
+#EXTINF:-1 ,四川妇女
+http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
+#EXTINF:-1 ,四川公共
+http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
+#EXTINF:-1 ,CIBN纪录片
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 艺术院线
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 财经
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCJPD/1800/vCIBNCJPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 电影
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 钓鱼
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGWPDHWXF/1800/vCIBNHWXF.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 古装剧场
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 嗨播
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 骄阳剧场
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 教育
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 精品影院
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 军事
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 汽车
+http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 情感影院
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 微电影
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN 喜剧影院
+http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1,华数偶像HD
 http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
 #EXTINF:-1,华数爱情FHD
