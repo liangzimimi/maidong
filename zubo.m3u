@@ -126,7 +126,7 @@ rtp://@239.77.0.16:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/yingyufudao.png",英语辅导
 rtp://@239.77.0.17:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/xiandaijiaoyu.png",现代教育
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=51&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+rtp://@239.77.0.18:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/guangdonghuizhan.png",会展频道
 rtp://@239.77.0.19:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东移动.png",移动频道
@@ -347,6 +347,8 @@ http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?version=v1.0&IAS
 http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanPublic
 #EXTINF:-1 ,上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+#EXTINF:-1 ,四川新闻
+http://118.123.60.12:8114/syhjcms_hls/?FvSeid=&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6449&Fsv_TBt=3072000&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=7
 #EXTINF:-1 ,四川文化
 http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
 #EXTINF:-1 ,四川经济
@@ -387,6 +389,8 @@ http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c2
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 ,CIBN 喜剧影院
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1,看看新闻HD
+http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
 #EXTINF:-1,华数偶像HD
 http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
 #EXTINF:-1,华数爱情FHD
