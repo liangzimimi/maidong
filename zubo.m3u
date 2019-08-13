@@ -421,6 +421,8 @@ http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
 http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
 #EXTINF:-1 tvg-logo="精彩电影",精彩电影
 http://202.107.188.149:5002/qincaimovie_hdcq-1.m3u8?token=XXZCagDnQmoB50Jq_yoongoo&gid=qincaimovie_hdcq
+#EXTINF:-1,凤凰电影
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 #EXTINF:-1,欧美高清电影9
 http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 #EXTINF:-1,欧美高清电影10
