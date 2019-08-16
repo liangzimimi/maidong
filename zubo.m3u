@@ -104,9 +104,9 @@ rtp://@239.77.0.160:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cetv1.png",cetv-1高清
 rtp://@239.77.0.200:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/gdxwpd.png",广东新闻
-rtp://239.77.0.4:5146
+rtp://@239.77.0.4:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/gdggpd.png",广东公共
-rtp://239.77.0.5:5146
+rtp://@239.77.0.5:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/gdgjpd.png",广东国际
 rtp://@239.77.0.7:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/tvs1.png",广东经济科教
@@ -415,6 +415,12 @@ http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
 #EXTINF:-1,国外电视剧HD
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
+#EXTINF:-1,smil1
+rtsp://183.59.241.163:554/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?icpid=88888888&from=187&listofrrs=125.88.104.45&popid=187&hms_devid=4743&prioritypopid=343&online=1539963530
+#EXTINF:-1,smil2
+rtsp://183.59.241.162/PLTV/88888895/224/3221227589/10000100000000060000000004456632_0.smil?icpid=88888888&from=187
+#EXTINF:-1,smil3
+rtsp://183.59.241.163:554/PLTV/88888895/224/3221227589/10000100000000060000000004456632_0.smil?icpid=88888888&from=187
 #EXTINF:-1,国外动作HD
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/峨嵋电影.png",峨眉电影
