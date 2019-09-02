@@ -6,7 +6,7 @@ rtp://@239.77.0.137:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv3HD.png",CCTV3
 rtp://@239.77.0.175:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv4HD.png",CCTV4中文国际
-rtp://@239.77.1.163:5146
+rtp://@239.77.0.78:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5HD.png",CCTV5
 rtp://@239.77.0.170:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5+HD.png",CCTV5+
@@ -31,6 +31,8 @@ rtp://@239.77.1.26:5146
 rtp://@239.77.0.133:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv15HD.png",CCTV15高清
 rtp://@239.77.1.11:5146
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv15HD.png",CCTV17高清
+rtp://@239.77.0.198:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/珠海1.png",珠海1高清
 rtp://@239.77.0.155:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/珠海2.png",珠海2高清
