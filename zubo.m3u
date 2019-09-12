@@ -31,7 +31,7 @@ rtp://@239.77.1.26:5146
 rtp://@239.77.0.133:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv15HD.png",CCTV15高清
 rtp://@239.77.1.11:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv15HD.png",CCTV17高清
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png/330px-CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png",CCTV17高清
 rtp://@239.77.0.198:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/珠海1.png",珠海1高清
 rtp://@239.77.0.155:5146
@@ -54,7 +54,7 @@ rtp://@239.77.0.191:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东珠江.png",广东珠江高清
 rtp://@239.77.0.1:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东体育.png",广东体育高清
-rtp://@239.77.0.112:5146
+rtp://@239.77.0.6:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/湖南HD.png",湖南卫视高清
 rtp://@239.77.0.88:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/浙江HD.png",浙江卫视高清
@@ -225,7 +225,7 @@ rtp://@239.77.0.206:5146
 rtp://@239.77.0.207:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/jsgf.png",cctv国防军事
 rtp://@239.77.0.208:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",汽摩
+#EXTINF:-1,http://www.66zhibo.net/d/file/2018/0609/7e05f34addaf006c726441e70d1cabc6.jpg",汽摩
 rtp://@239.77.0.209:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",梨园
 rtp://@239.77.0.210:5146
@@ -237,7 +237,7 @@ rtp://@239.77.0.213:5146
 rtp://@239.77.0.214:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",摄影频道
 rtp://@239.77.0.215:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",武术世界
+#EXTINF:-1,tvg-logo="http://img.badouxia.com/Uploads/vod/2018-08-30/5b87b061c3838.jpg",武术世界
 rtp://@239.77.0.216:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctvwsjk.png",卫生健康
 rtp://@239.77.0.217:5146
@@ -253,7 +253,7 @@ rtp://@239.77.0.223:5146
 rtp://@239.77.0.224:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",国学
 rtp://@239.77.0.226:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",文物宝库
+#EXTINF:-1,tvg-logo="https://i.imgur.com/FemRq27.jpg",文物宝库
 rtp://@239.77.0.227:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctvdszn.png",电视指南
 rtp://@239.77.0.228:5146
@@ -289,7 +289,7 @@ rtp://@239.77.1.242:5146
 rtp://@239.77.1.243:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/深圳少儿.png",深圳少儿高清
 rtp://@239.77.1.244:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",深圳DV生活
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/shengzheng.jpg",深圳DV生活
 rtp://@239.77.1.245:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/深圳都市.png",深圳都市
 rtp://@239.77.1.246:5146
@@ -355,19 +355,19 @@ http://124.232.231.247:6610/000000001001/201500000142/index.m3u8?version=v1.0&IA
 http://223.110.241.204:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",美食天府
 http://124.232.231.247:6610/000000001001/201500000120/index.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 ,上海教育
+#EXTINF:-1 tvg-logo="http://www.setv.sh.cn/images/logo.png",上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-#EXTINF:-1 ,上海新闻
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/stvxw.jpg",上海新闻
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/7487426726248458200/index.m3u8?channel-id=bestzb&Contentid=7487426726248458200&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=7487426726248458200&owchid=bestzb&owsid=7058131567735179741&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlamaB2bmaXajljhJUsHlD6%2Bq%2BlR%2F4cUpBtpb%2FWAI6CGje2DR4kZQb%2FaT7Pss8jUbW1GHmN5XPzL1LbSOJMyHm7y1
-#EXTINF:-1 ,上海都市
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Shanghai_City_TV.PNG",上海都市
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&stbId=004003FF0041848666008422F155939C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=4493204831455331826&AuthInfo=zI7Ouajzmvoo0pGb64%2fbgLE2RFvrprmD90MrWZVi%2bL3HPQnDcXoFLI6SzbzVwjU3sNLudmh14A4CtBNHjWANkrrgGz1D3dYfcKudsIt%2bpr%2fjXiUqpuQHmAckVE8okPuA
-#EXTINF:-1 ,上海ICS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/ICS_logo.png",上海ICS
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6032059665143203976/index.m3u8?channel-id=bestzb&Contentid=6032059665143203976&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=6032059665143203976&owchid=bestzb&owsid=8862091567733940095&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlalAzdP65EW1KAjwws9eqr8onRppCkq5lhXK46o%2BFK3dV%2BCK3fxe9S11%2B88%2FynrqkhlXX%2BzVbd%2F5J%2FreUEsqODX5
-#EXTINF:-1 ,艺术人文
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/af/A%26H_Channel.jpg",艺术人文
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4624908642496875994/index.m3u8?channel-id=bestzb&Contentid=4624908642496875994&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=4624908642496875994&owchid=bestzb&owsid=7307161567734325507&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlakX9SH5G1JgIYhTq8uaEFluO5XFa3AsJzwADFn8parnvJ%2BLSySHVHRWl94rtV1pavhGH3y7yKhmBGBRt5D0Lkbw
 #EXTINF:-1 ,生活时尚
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=5457861567734659356&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlakS%2FOYtRGR5wcGJDIS9OeTlipH2OO8alDz%2F1TUrW3QAaMFdRScr5Z2333r7naICD73KmBnoU9%2B3A5Ot%2BJeysO4p
-#EXTINF:-1 ,法制天地
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fazhitiandi.jpg",法制天地
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=9001547084732463424&owchid=bestzb&owsid=8627501567734770199&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlakbyzhYxlgfMc05i1qIdpq%2B11YwpyVg44OQ4MJLj0ipXG%2BfAIrE%2FSVG6kk0EhMoKq%2F%2F5VYqAJ7BiFFQr%2Bg6QRWh
 #EXTINF:-1 ,五星体育
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4612233678249154892/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=4612233678249154892&owchid=bestzb&owsid=2176691567736817232&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlaknl3tSCjF%2FbJECfM63fJ6eyfl8o6jWNZ4j54M%2FYFNywrfWFfOe%2FXwHQcT8vqrIlV2A3ZDeI98IqZ5uPsGdizpm
@@ -385,7 +385,7 @@ http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
 http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
 #EXTINF:-1 ,动漫秀场
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/9072176337701960899/index.m3u8?channel-id=bestzb&Contentid=9072176337701960899&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=9072176337701960899&owchid=bestzb&owsid=3122691567735306416&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlanl5U7cvMBOvw4FuzVfiuCfboqMwteP1NAbjiMSPF%2FYmVIFc0ikmabpCMuoLCJ%2BJTr24H3zIO5Ak7Bwu94TD33n
-#EXTINF:-1 ,欢笑剧场
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/huanxiaojuchang.jpg",欢笑剧场
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6550198305014687851/index.m3u8?channel-id=bestzb&Contentid=6550198305014687851&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=6550198305014687851&owchid=bestzb&owsid=6113291567734895301&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlak2o8qmwytyhxw4d4U1ZpHknGc%2FdfwZ4IQ4KakkBgfMu00E3M4cBWXnqxvacMDZvZvyPUL7udppGS5Ll3Y5tL2b
 #EXTINF:-1 ,CIBN纪录片
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
