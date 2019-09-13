@@ -54,7 +54,7 @@ rtp://@239.77.0.191:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东珠江.png",广东珠江高清
 rtp://@239.77.0.1:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东体育.png",广东体育高清
-rtp://@239.77.0.6:5146
+rtp://@239.77.0.112:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/湖南HD.png",湖南卫视高清
 rtp://@239.77.0.88:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/浙江HD.png",浙江卫视高清
@@ -417,6 +417,24 @@ http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c2
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 ,CIBN 喜剧影院
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1,NewTV动作电影
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7951969344461271832&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=3049941568340413206&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKwRoiIHvFcTLVMullWq17oQAm00DnwauTTpmJcsecAkGOmIhc3fcL%2F8JpzvlR8v%2FIx5yO%2FKYDiozgHLANwnrlW0
+#EXTINF:-1,NewTV精品电影
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=8379361568340543300&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKyB1NJw%2BxS1yO2yQ6ehJl7KzMKTTmm7fNNdRsVLDTcKwFYdDcpW%2BuqGQDSiigT%2BWyBXnq%2Fz5YVGJBzISFxQd6mG
+#EXTINF:-1,NEWTV精品大剧HD
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=7951969344461789021&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=7948281568340578784&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKz2bfoTpJePrkQKVhsePXzT7eTaHJnita9vE0rTWqtAjxOxv5E3O4fkFtrGPM0fEtg7%2BMFEVSzWGnPe53l5gsBC
+#EXTINF:-1,NEWTV爱情喜剧
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=1650641568340609987&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKy5eqJrA6bPLNO82j2NgiOPAzxrYplm1EUb%2BJzypttEu6AkaJMFWd9QuVFlRZuZROLcBIFBAlSBTpJ2M7wilMLg
+#EXTINF:-1,NewTV明星大片
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=2536431568340646672&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKzA0Z5YPFXaQtw1cl4vI%2F8DbIS5Fqyf353xOaBuDbosDPEgi48WRWrQI3BX5oWXGBX6rLCZaNb5hl9z7PQrl9Kg
+#EXTINF:-1,NewTV家庭剧场
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=7951969344461297064&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=6152771568340677457&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKztTRPd3BNUuhJ6UAaEBJ%2BHH09FnRI7BExwSV30l2o5IBMFMNd38IuQo%2FKLZhwC9F8wavb5so9Yan%2FQ4m6Hz3pi
+#EXTINF:-1,NewTV军旅剧场
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=3976881568340706512&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKwp04Dr4ZTsE05O6%2F8SJDen2A2gJGPjz8ybJHGLLvvETENH0D7tk%2BhYC4jKjdhlOGXB99DSKtrW2xqej3gZpiJ%2B
+#EXTINF:-1,NewTV海外剧场
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=3085541568340733844&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKyLzv1h4%2Blh7ne8Ell7jgGQeHdWBj8q3P1xU5kq%2BpySzcMXfdV5o2jV%2FkksyhLr8wUTmROSFJ81IhA71ppQk0pp
+#EXTINF:-1,NewTV金牌综艺
+http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7951969344461811424&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=6311031568340761508&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKxnfoYWaoR66cwPlMKP%2B87QgFYbeqQ9PAnhp4u%2Fpeugjs%2F7rawc8RZGr5Lw3%2BbaaMS7UJ8aFu1ahOeyyQUCotzs
 #EXTINF:-1,看看新闻HD
 http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
 #EXTINF:-1,华数偶像HD
