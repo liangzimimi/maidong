@@ -91,6 +91,8 @@ rtp://@239.77.0.95:5146
 rtp://@239.77.0.97:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/辽宁HD.png",辽宁卫视高清
 rtp://@239.77.0.123:5146
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广西.png",广西卫视
+rtp://@239.77.0.139:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/贵州HD.png",贵州卫视高清
 rtp://@239.77.0.230:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/东南HD.png",东南卫视高清
@@ -133,8 +135,6 @@ rtp://@239.77.0.20:5146
 rtp://@239.77.0.21:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/云南.png",云南卫视
 rtp://@239.77.0.62:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广西.png",广西卫视
-rtp://@239.77.0.66:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/陕西.png",陕西卫视
 rtp://@239.77.0.68:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/厦门.png",厦门卫视
