@@ -31,7 +31,7 @@ rtp://@239.77.1.26:5146
 rtp://@239.77.0.133:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv15HD.png",CCTV15高清
 rtp://@239.77.1.11:5146
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png/330px-CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png",CCTV17高清
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv17.png",CCTV17高清
 rtp://@239.77.0.198:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/珠海1.png",珠海1高清
 rtp://@239.77.0.155:5146
@@ -331,8 +331,6 @@ rtp://@239.77.1.250:5146
 rtp://@239.77.1.207:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngj.png",湖南国际
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5015828848322021526/index.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b&version=1.0&owaccmark=5015828848322021526&owchid=hnbblive&owsid=1322670693083255189&AuthInfo=2sY0X2Vx81akpMe%2bGtvEyGwHTovKXM42q9Mu%2fRCpbzcl0GB%2fwmgGY7sZaERgy24YUTLL%2f%2ff1DzaaoRR9qHN0gOfgfZ3F0HbOchrpZ1jqUdoLgICRQLnhY%2fFVWQdpMeE2
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hnjs.png",湖南经视
-http://124.232.231.247:6610/000000001001/201600020002/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hnds.png",湖南都市
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4682579636905393407/index.m3u8?channel-id=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b&version=1.0&owaccmark=4682579636905393407&owchid=hnbblive&owsid=1374099653743029795&AuthInfo=2sY0X2Vx81akpMe+GtvEyGwHTovKXM42q9Mu/RCpbzey90kjPT8Vebi7uddDeE51KcUCiZQkqZV5OJKZV+WQUrntTkSVFBEvKI/6zh5POrUnYAlIzRhxvs1959lCOaz2
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/湖南娱乐.png",湖南娱乐
@@ -343,18 +341,8 @@ http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/788424284
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/8765482907954673867/index.m3u8?channel-id=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b&version=1.0&owaccmark=8765482907954673867&owchid=hnbblive&owsid=1374099653743076440&AuthInfo=2sY0X2Vx81akpMe+GtvEyGwHTovKXM42q9Mu/RCpbzfD15jUnuB5rLWBrdkvp3AVUDc33EYpt4tgQ0w0+zJ0wEWRusa2Clz2ZLH9WQcwXCtYJO4Cs9C7QZM1mEM3IDjI
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",湖南公共
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6307875884530512195/index.m3u8?channel-id=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b&version=1.0&owaccmark=6307875884530512195&owchid=hnbblive&owsid=1374099653743055787&AuthInfo=2sY0X2Vx81akpMe+GtvEyGwHTovKXM42q9Mu/RCpbzfjbUe62V66BJTgfgi6ef1jXTvMTm3hIVuSAe/00IIXCFXpl9AUnG+h784yipTcECMCBE3sTc6/IdiwxvVPrA4B
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",长沙新闻
-http://124.232.231.247:6610/000000001001/201500000232/index.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",长沙女性
-http://124.232.231.247:6610/000000001001/201500000094/index.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",长沙影视
-http://124.232.231.247:6610/000000001001/201500000206/index.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",安徽人物
-http://124.232.231.247:6610/000000001001/201500000142/index.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",湖北休闲
 http://223.110.241.204:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",美食天府
-http://124.232.231.247:6610/000000001001/201500000120/index.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-logo="http://www.setv.sh.cn/images/logo.png",上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/stvxw.jpg",上海新闻
@@ -371,18 +359,6 @@ http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/853861637
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=9001547084732463424&owchid=bestzb&owsid=8627501567734770199&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlakbyzhYxlgfMc05i1qIdpq%2B11YwpyVg44OQ4MJLj0ipXG%2BfAIrE%2FSVG6kk0EhMoKq%2F%2F5VYqAJ7BiFFQr%2Bg6QRWh
 #EXTINF:-1 ,五星体育
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4612233678249154892/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=4612233678249154892&owchid=bestzb&owsid=2176691567736817232&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlaknl3tSCjF%2FbJECfM63fJ6eyfl8o6jWNZ4j54M%2FYFNywrfWFfOe%2FXwHQcT8vqrIlV2A3ZDeI98IqZ5uPsGdizpm
-#EXTINF:-1 ,四川新闻
-http://118.123.60.12:8114/syhjcms_hls/?FvSeid=&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6449&Fsv_TBt=3072000&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=7
-#EXTINF:-1 ,四川文化
-http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
-#EXTINF:-1 ,四川经济
-http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
-#EXTINF:-1 ,四川影视
-http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
-#EXTINF:-1 ,四川妇女
-http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
-#EXTINF:-1 ,四川公共
-http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
 #EXTINF:-1 ,动漫秀场
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/9072176337701960899/index.m3u8?channel-id=bestzb&Contentid=9072176337701960899&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=9072176337701960899&owchid=bestzb&owsid=3122691567735306416&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlanl5U7cvMBOvw4FuzVfiuCfboqMwteP1NAbjiMSPF%2FYmVIFc0ikmabpCMuoLCJ%2BJTr24H3zIO5Ak7Bwu94TD33n
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/huanxiaojuchang.jpg",欢笑剧场
