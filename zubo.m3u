@@ -10,7 +10,7 @@ rtp://@239.77.0.78:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5HD.png",CCTV5
 rtp://@239.77.0.170:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5+HD.png",CCTV5+
-rtp://@239.77.0.87:5146
+rtp://@239.77.1.31:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv6HD.png",CCTV6
 rtp://@239.77.0.171:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv7HD.png",CCTV7高清测试
@@ -80,7 +80,7 @@ rtp://@239.77.1.229:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/河北HD.png",河北卫视高清
 rtp://@239.77.0.148:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/江西HD.png",江西卫视高清
-rtp://@239.77.1.219:5146
+rtp://@239.77.0.149:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/吉林HD.png",吉林卫视高清
 rtp://@239.77.0.150:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/黑龙江HD.png",黑龙江卫视高清
@@ -199,6 +199,14 @@ rtp://@239.77.0.147:5146
 rtp://@239.77.0.110:5146
 #EXTINF:-1,tvg-logo="http://epg.tv.cn/liststyle/tvlist/img/dszn.png",cctv收视指南
 rtp://@239.77.0.111:5146
+#EXTINF:-1,央视精品1
+rtp://239.77.1.75:5146
+#EXTINF:-1,央视精品2
+rtp://239.77.1.63:5146
+#EXTINF:-1,央视精品3
+rtp://239.77.1.64:5146
+#EXTINF:-1,央视精品4
+rtp://239.77.1.56:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/ipanda.png",熊猫频道
 rtp://@239.77.0.151:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",财富天下
@@ -255,6 +263,12 @@ rtp://@239.77.0.224:5146
 rtp://@239.77.0.226:5146
 #EXTINF:-1,tvg-logo="https://i.imgur.com/FemRq27.jpg",文物宝库
 rtp://@239.77.0.227:5146
+#EXTINF:-1,收藏高清
+rtp://239.77.1.106:5146
+#EXTINF:-1,书画
+rtp://239.77.1.115:5146
+#EXTINF:-1,中国气象
+rtp://239.77.1.143:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctvdszn.png",电视指南
 rtp://@239.77.0.228:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",极K纪录-测试
@@ -447,3 +461,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1,欧美高清电影17
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:-1,未知
+rtp://239.77.0.252:5146
+#EXTINF:-1,未知
+rtp://239.77.0.161:5146
