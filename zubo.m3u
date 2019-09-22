@@ -435,10 +435,8 @@ http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
 #EXTINF:-1,国外电影HD
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
-#EXTINF:-1,动作电影HD
-http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
-#EXTINF:-1,国外电视剧HD
-http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
+#EXTINF:-1,百看不厌
+http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
 #EXTINF:-1,国外动作HD
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/峨嵋电影.png",峨眉电影
@@ -461,7 +459,4 @@ http://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1,欧美高清电影17
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:-1,未知
-rtp://239.77.0.252:5146
-#EXTINF:-1,未知
-rtp://239.77.0.161:5146
+
