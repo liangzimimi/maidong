@@ -47,7 +47,7 @@ http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fs
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/xingkong.png",星空卫视
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/mtv.png",MTV
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/mtv.jpg",MTV
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=202&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg",广东卫视高清
 rtp://@239.77.0.191:5146
@@ -436,7 +436,7 @@ http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
 #EXTINF:-1,tvg-logo="http://tvvgo.com/upload/vod/2018-12-18/15451386440.png",国外动作HD
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/峨嵋电影.png",峨眉电影
-http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+http://zszb.xyz/sctv.php?uid=4000&id=sctvemdy
 #EXTINF:-1,tvg-logo="精彩电影",精彩电影
 http://202.107.188.149:5002/qincaimovie_hdcq-1.m3u8?token=XXZCagDnQmoB50Jq_yoongoo&gid=qincaimovie_hdcq
 #EXTINF:-1,凤凰电影
@@ -449,7 +449,7 @@ http://185.239.226.6:5178/gdyx.php?id=CHChometheatre_1500
 http://185.239.226.6:5178/gdyx.php?id=CHCactionmovie_1500
 #EXTINF:-1,高清电影
 http://185.239.226.6:5178/gdyx.php?id=FilmsHD_7000
-#EXTINF:-1,boxTV
+#EXTINF:-1,tvg-logo="https://img.yzcdn.cn/upload_files/2016/03/23/Fri-TyeEfrk_-GyunYwdzLl8iuj2.jpg",DoxTV
 rtp://@239.77.1.155:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",欧美高清电影9
 http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
