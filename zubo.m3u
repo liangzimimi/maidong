@@ -31,7 +31,7 @@ rtp://@239.77.1.26:5146
 rtp://@239.77.0.133:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv15HD.png",CCTV15高清
 rtp://@239.77.1.11:5146
-#EXTINF:-1,tvg-logo="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=cdb299c44f34970a537e187df4a3baad/0ff41bd5ad6eddc434bbe51037dbb6fd536633f8.jpg",CCTV17高清
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv17HD.png",CCTV17高清
 rtp://@239.77.0.198:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/zhxwpd.jpg",珠海1高清
 rtp://@239.77.0.155:5146
