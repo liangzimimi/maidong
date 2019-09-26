@@ -13,7 +13,7 @@ rtp://@239.77.0.170:5146
 rtp://@239.77.1.31:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv6HD.png",CCTV6
 rtp://@239.77.0.171:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv7HD.png",CCTV7高清测试
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv7m.png",CCTV7高清测试
 rtp://@239.77.0.138:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv8HD.png",CCTV8
 rtp://@239.77.0.181:5146
