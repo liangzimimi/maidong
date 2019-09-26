@@ -91,7 +91,7 @@ rtp://@239.77.0.95:5146
 rtp://@239.77.0.97:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/liaoningtvm.png",辽宁卫视高清
 rtp://@239.77.0.123:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/guangxitvm.png",广西卫视
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/guangxitv.png",广西卫视
 rtp://@239.77.0.139:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/guizhoutvm.png",贵州卫视高清
 rtp://@239.77.0.230:5146
@@ -101,7 +101,7 @@ rtp://@239.77.0.146:5146
 rtp://@239.77.0.122:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/jinyingjs.png",金鹰纪实高清测试
 rtp://@239.77.0.160:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cetv1.png",cetv-1高清
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg",cetv-1高清
 rtp://@239.77.0.200:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/gdxwpd.jpg",广东新闻
 rtp://@239.77.0.4:5146
@@ -109,7 +109,7 @@ rtp://@239.77.0.4:5146
 rtp://@239.77.0.5:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/gdgjpd.jpg",广东国际
 rtp://@239.77.0.7:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/tvs1.png",广东经济科教
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs1.jpg",广东经济科教
 rtp://@239.77.0.85:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/tvs2.png",南方卫视
 rtp://@239.77.0.9:5146
@@ -127,8 +127,6 @@ rtp://@239.77.0.16:5146
 rtp://@239.77.0.17:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/xiandaijiaoyu.jpg",现代教育
 rtp://@239.77.0.18:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/guangdonghuizhan.png",会展频道
-rtp://@239.77.0.19:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/广东移动.png",移动频道
 rtp://@239.77.0.20:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/kuailechongwu.jpg",快乐宠物
@@ -217,7 +215,7 @@ rtp://@239.77.0.205:5146
 rtp://@239.77.0.206:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvysjp.jpg",cctv央视精品
 rtp://@239.77.0.207:5146
-#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvguofang.jpg",cctv国防军事
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvbqkj.jpg",cctv兵器科技
 rtp://@239.77.0.208:5146
 #EXTINF:-1,tvg-logo="http://www.66zhibo.net/d/file/2018/0609/7e05f34addaf006c726441e70d1cabc6.jpg",汽摩
 rtp://@239.77.0.209:5146
@@ -295,13 +293,13 @@ rtp://@239.77.1.244:5146
 rtp://@239.77.1.245:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/szdsj.jpg",深圳都市
 rtp://@239.77.1.246:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/huizhou1.png",HZTV1高清
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv1.jpg",HZTV1高清
 rtp://@239.77.1.232:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/huizhou2.png",HZTV2高清
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv2.jpg",HZTV2高清
 rtp://@239.77.1.233:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/fsgg.png",佛山综合
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/fszhpd.jpg",佛山综合
 http://185.239.226.6:5178/gdyx.php?id=foshannews_1500
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/fsgg.png",佛山公共
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/fsggpd.jpg",佛山公共
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=182&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/zhongshantv.jpg",中山1
 http://185.239.226.6:5178/gdyx.php?id=zhongshanyitao_1500
@@ -345,9 +343,9 @@ http://185.239.226.6:5178/gdyx.php?id=meizhouyitao_1500
 http://185.239.226.6:5178/gdyx.php?id=meizhouertao_1500
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/heyuan.jpg",河源
 http://185.239.226.6:5178/gdyx.php?id=heyuanyitao_1500
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/jieyang.png",揭阳生活
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/jieyang.jpg",揭阳生活
 rtp://@239.77.0.157:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/jieyang.png",揭阳公共
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/jieyang.jpg",揭阳公共
 rtp://@239.77.0.158:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/chaozhou.png",潮州公共
 rtp://@239.77.0.164:5146
