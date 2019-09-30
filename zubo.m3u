@@ -113,8 +113,6 @@ rtp://@239.77.0.7:5146
 rtp://@239.77.0.85:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/tvs2.png",南方卫视
 rtp://@239.77.0.9:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/yanbiantv.png",延边卫视
-rtp://@239.77.0.10:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs4.jpg",广东影视
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=240&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs5.jpg",广东少儿
@@ -137,6 +135,8 @@ rtp://@239.77.0.62:5146
 rtp://@239.77.0.68:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/xiamentvm.png",厦门卫视
 rtp://@239.77.0.96:5146
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/yanbiantv.png",延边卫视
+rtp://@239.77.0.10:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/neimenggutv.png",内蒙古卫视
 rtp://@239.77.0.70:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/qinghaitvm.png",青海卫视
@@ -165,8 +165,6 @@ rtp://@239.77.0.81:5146
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=130&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/youmankt.png",优漫卡通
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=146&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/iptvsedh.png",cctv少儿动画
-rtp://@239.77.0.109:5146
 #EXTINF:-1,tvg-logo="http://epg.tv.cn/liststyle/tvlist/img/xkdm.png",CCTV新科动漫
 rtp://@239.77.0.225:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shandongjy.png",山东教育
@@ -183,6 +181,10 @@ rtp://@239.77.0.102:5146
 rtp://@239.77.0.104:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/iptvrbjc.png",IPTV热播剧场
 rtp://@239.77.0.106:5146
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/iptvsedh.png",cctv少儿动画
+rtp://@239.77.0.109:5146
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/iptvsszn.png",cctv收视指南
+rtp://@239.77.0.111:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/iptv3+.png",IPTV3＋
 rtp://@239.77.0.107:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/iptv5+.png",IPTV5＋
@@ -199,8 +201,6 @@ rtp://@239.77.0.151:5146
 rtp://@239.77.0.113:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/iptvmlss.png",cctv魅力时尚
 rtp://@239.77.0.110:5146
-#EXTINF:-1,tvg-logo="http://epg.tv.cn/liststyle/tvlist/img/dszn.png",cctv收视指南
-rtp://@239.77.0.111:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvdyjc.jpg",cctv第一剧场
 rtp://@239.77.0.201:5146
 #EXTINF:-1,tvg-logo="http://tvvgo.com/upload/vod/2018-08-27/201808271535354271.jpg",cctv风云足球
@@ -281,7 +281,7 @@ rtp://@239.77.1.224:5146
 rtp://@239.77.1.225:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/szdspd.jpg",深圳都市
 rtp://@239.77.1.226:5146
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",足球
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/zuqiu.png",足球
 rtp://@239.77.1.235:5146
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/szcjsh.jpg",深圳财经高清
 rtp://@239.77.1.242:5146
