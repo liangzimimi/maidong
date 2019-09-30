@@ -321,6 +321,10 @@ rtp://@239.77.0.196:5146
 rtp://@239.77.0.197:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/xinhui.png",新会
 http://185.239.226.6:5178/gdyx.php?id=xinhui_1500
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/qingyuan.jpg",清远综合
+http://185.239.226.6:5178/gdyx.php?id=qingyuanzonghe_1500
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/qingyuan.jpg",清远公共
+http://185.239.226.6:5178/gdyx.php?id=qingyuangongong_1500
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shaoguanzh.png",韶关综合高清
 rtp://@239.77.0.117:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shaoguangg.png",韶关公共高清
@@ -337,9 +341,9 @@ http://185.239.226.6:5178/gdyx.php?id=yunfuertao_1500
 http://185.239.226.6:5178/gdyx.php?id=zhaoqingyitao_1500
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/zqggpd.jpg",肇庆2
 http://185.239.226.6:5178/gdyx.php?id=zhaoqingertao_1500
-#EXTINF:-1,博罗1
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/boluo.png",博罗1
 http://185.239.226.6:5178/gdyx.php?id=boluozonghe_1500
-#EXTINF:-1,博罗2
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/boluo.png",博罗2
 http://185.239.226.6:5178/gdyx.php?id=boluojingdian_1500
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/meizhou.jpg",梅州1
 http://185.239.226.6:5178/gdyx.php?id=meizhouyitao_1500
@@ -501,8 +505,12 @@ http://185.239.226.6:5178/gdyx.php?id=DOXxinyiHD_7000
 http://185.239.226.6:5178/gdyx.php?id=meiliyinyueHD_7000
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/quanjs.png",全纪实
 http://185.239.226.6:5178/gdyx.php?id=quanjishiHD_7000
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/quanjishi.jpg",求索科学
+http://185.239.226.6:5178/gdyx.php?id=qiusuokexueHD_7000
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/quanjishi.jpg",求索生活
 http://185.239.226.6:5178/gdyx.php?id=QSSHHD_7000
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/quanjishi.jpg",求索动物
+http://185.239.226.6:5178/gdyx.php?id=QSDWHD_7000
 #EXTINF:-1,高清综合
 http://185.239.226.6:5178/gdyx.php?id=zongheHD_7000
 #EXTINF:-1,高清探索
