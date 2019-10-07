@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",CCTV1高清
-rtp://@239.77.1.17:5146
+rtp://@239.77.1.144:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv2HD.png",CCTV-2高清测试
 rtp://@239.77.0.137:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv3HD.png",CCTV3
