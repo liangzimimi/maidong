@@ -523,15 +523,51 @@ http://185.239.226.6:5178/gdyx.php?id=zongheHD_7000
 http://185.239.226.6:5178/gdyx.php?id=searchHD_7000
 #EXTINF:-1,高清粤语
 http://185.239.226.6:5178/gdyx.php?id=yueyuHD_7000
+#EXTINF:-1,Z频道
+http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.flv
+#EXTINF:-1,ANIMAX HD
+http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",Reality TV 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",欧美高清电影9
 http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",欧美高清电影10
 http://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
 #EXTINF:-1tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",灾难电影
-http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",欧美高清电影12
 http://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1.m3u8
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",漫威电影
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",欧美高清电影17
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 11
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 12
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 15
+https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 16
+https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 2
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 3
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 4
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 6
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR MOVIE 7
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR Movie 8
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",AYSAR Movie 9
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1,tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",Fox movies asia
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
