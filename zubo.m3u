@@ -58,7 +58,7 @@ rtp://@239.77.0.112:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hunantv.png",湖南卫视高清
 rtp://@239.77.0.88:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/zhejiangtvm.png",浙江卫视高清
-rtp://@239.77.0.89:5146
+rtp://@239.77.1.33:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/jiangsutvm.png",江苏卫视高清
 rtp://@239.77.0.90:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/dongfangtv.png",东方卫视高清
@@ -68,7 +68,7 @@ rtp://@239.77.0.91:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shenzhentvm.png",深圳卫视高清
 rtp://@239.77.0.92:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shandongtv.png",山东卫视高清
-rtp://@239.77.0.94:5146
+rtp://@239.77.1.142:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/sichuantvm.png",四川卫视高清
 rtp://@239.77.0.159:5146
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/chongqingtvm.png",重庆卫视高清
