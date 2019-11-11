@@ -358,11 +358,11 @@ rtp://@239.77.0.164:5146
 #EXTINF:-1,tvg-id="潮州综合",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/chaozhou.png",潮州综合
 rtp://@239.77.0.165:5146
 #EXTINF:-1,tvg-id="汕头1",tvg-logo="http://www.tvyan.com/uploads/dianshi/stxwzhpd.jpg",汕头1
-rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
+http://185.239.226.6:5178/gdyx.php?id=shantouyitaogaoqing_4500
 #EXTINF:-1,tvg-id="汕头2",tvg-logo="http://www.tvyan.com/uploads/dianshi/stjjsh.jpg",汕头2
-rtsp://183.58.12.204/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?icpid=88888888
+http://185.239.226.6:5178/gdyx.php?id=shantouertaogaoqing_4500
 #EXTINF:-1,tvg-id="汕头3",tvg-logo="http://www.tvyan.com/uploads/dianshi/styswy.jpg",汕头3
-rtsp://183.58.12.204/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil?icpid=88888888
+http://185.239.226.6:5178/gdyx.php?id=shantousantaogaoqing_4500
 #EXTINF:-1,tvg-id="汕尾1",tvg-logo="http://www.tvyan.com/uploads/dianshi/shanwei.jpg",汕尾1
 rtp://@239.77.1.189:5146
 #EXTINF:-1,tvg-id="汕尾2",tvg-logo="http://www.tvyan.com/uploads/dianshi/shanwei.jpg",汕尾2
