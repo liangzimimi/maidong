@@ -388,7 +388,7 @@ http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/876548290
 #EXTINF:-1,tvg-id="湖南公共",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",湖南公共
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6307875884530512195/index.m3u8?channel-id=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b&version=1.0&owaccmark=6307875884530512195&owchid=hnbblive&owsid=1374099653743055787&AuthInfo=2sY0X2Vx81akpMe+GtvEyGwHTovKXM42q9Mu/RCpbzfjbUe62V66BJTgfgi6ef1jXTvMTm3hIVuSAe/00IIXCFXpl9AUnG+h784yipTcECMCBE3sTc6/IdiwxvVPrA4B
 #EXTINF:-1,tvg-id="湖北休闲",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",湖北休闲
-http://223.110.241.204:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
+http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
 #EXTINF:-1,tvg-id="上海教育",tvg-logo="http://www.setv.sh.cn/images/logo.png",上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,tvg-id="上海新闻频道",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shanghaixw.png",上海新闻
@@ -413,12 +413,8 @@ http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/655019830
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1,tvg-id="CIBN艺术院线",tvg-logo="http://www.tvyan.com/uploads/dianshi/cibn.jpg" ,CIBN艺术院线
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,tvg-id="CIBN财经",tvg-logo="http://www.tvyan.com/uploads/dianshi/cibncaijing.jpg" ,CIBN财经
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCJPD/1800/vCIBNCJPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1,tvg-id="CIBN电影",tvg-logo="http://www.tvyan.com/uploads/dianshi/cibndianying.jpg" ,CIBN电影
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,tvg-id="CIBN钓鱼",tvg-logo="http://www.tvyan.com/uploads/dianshi/cibn.jpg" ,CIBN钓鱼
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGWPDHWXF/1800/vCIBNHWXF.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1,tvg-id="CIBN古装剧场",tvg-logo="http://www.tvyan.com/uploads/dianshi/cibn.jpg" ,CIBN古装剧场
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1,tvg-id="CIBN嗨播",tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnhaibo.jpg" ,CIBN嗨播
