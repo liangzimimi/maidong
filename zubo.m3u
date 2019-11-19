@@ -569,7 +569,7 @@ http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
 #EXTINF:-1 group-title="海外台",DMAX
 http://cloud-play.hhalloy.com/live/41a76576ae78436eb0951f2aee0c9bda.flv
-#EXTINF:-1 group-title="海外台",我的欧洲电影
+#EXTINF:-1 group-title="海外台",MyCinemaEurope
 http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
 #EXTINF:-1 group-title="海外台",AMC日舞
 http://cloud-play.hhalloy.com/live/40d0812307cd389be76c358de7f4913e.flv
@@ -589,9 +589,9 @@ http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
 http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
 #EXTINF:-1 group-title="海外台",Outoor
 http://cloud-play.hhalloy.com/live/fa1bc78d17a433dfd3214271efe7e82b.flv
-#EXTINF:-1 group-title="海外台",历史频道
+#EXTINF:-1 group-title="海外台",History
 http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
-#EXTINF:-1 group-title="海外台",历史频道2
+#EXTINF:-1 group-title="海外台",History2
 http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
 #EXTINF:-1 group-title="海外台",TLC旅游生活
 http://cloud-play.hhalloy.com/live/2389cbac5b421dd5b069a232f3d321bc.flv
@@ -609,7 +609,7 @@ http://cloud-play.hhalloy.com/live/641befebabe286484103e2980e05694d.flv
 http://cloud-play.hhalloy.com/live/a079e0f13033fc06d42cd0e9e40913ee.flv
 #EXTINF:-1 group-title="海外台",NHK
 http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
-#EXTINF:-1 group-title="海外台",WaKaWaka Japan
+#EXTINF:-1 group-title="海外台",WaKuWaku Japan
 http://cloud-play.hhalloy.com/live/6fab3a8298ba5097394c5fdcdea8ea81.flv
 #EXTINF:-1 group-title="海外台",TVN
 http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flv
@@ -619,9 +619,9 @@ http://cloud-play.hhalloy.com/live/2ff14655a982c6d2be2a8b0c5649d257.flv
 http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
 #EXTINF:-1 group-title="海外台",MTV Live
 http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
-#EXTINF:-1,Z频道
+#EXTINF:-1 group-title="海外台",Z频道
 http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.flv
-#EXTINF:-1,ANIMAX HD
+#EXTINF:-1 group-title="海外台",ANIMAX HD
 http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
 #EXTINF:-1 group-title="中国台湾",中视新闻
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
@@ -663,7 +663,7 @@ http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
 http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
 #EXTINF:-1 group-title="中国台湾",霹雳台湾台
 http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
-#EXTINF:-1 group-title="中国台湾",Hakkatv
+#EXTINF:-1 group-title="中国台湾",客家电视台
 http://cloud-play.hhalloy.com/live/9535868a6a173399d3913cab3bb61675.flv
 #EXTINF:-1 group-title="中国台湾",原住民电视台
 http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
@@ -737,6 +737,8 @@ http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
 http://cloud-play.hhalloy.com/live/49d33b7521ceef2115572e8906e9f906.flv
 #EXTINF:-1 group-title="中国台湾",居家幸福
 http://cloud-play.hhalloy.com/live/891dfa401663622b29ab70c16ea2273e.flv
+#EXTINF:-1 group-title="中国台湾",国兴卫视
+http://cloud-play.hhalloy.com/live/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
 #EXTINF:-1 group-title="中国台湾",靖天映画
 http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
 #EXTINF:-1 group-title="中国台湾",靖天电影
@@ -771,6 +773,8 @@ http://cloud-play.hhalloy.com/live/65e80e1e0cd763a0302d7aa2a1135b0b.flv
 http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
 #EXTINF:-1 group-title="中国台湾",卫视电影台
 http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+#EXTINF:-1 group-title="中国台湾",卫视洋片HD
+http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
 #EXTINF:-1 group-title="中国台湾",亚洲旅游台
 http://cloud-play.hhalloy.com/live/a7003032346b06ad6a610ce1751be6a4.flv
 #EXTINF:-1 group-title="中国台湾",ELTV生活英语
