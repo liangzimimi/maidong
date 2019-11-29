@@ -328,9 +328,9 @@ rtp://@239.77.0.117:5146
 #EXTINF:-1,tvg-id="韶关公共",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shaoguangg.png",韶关公共
 rtp://@239.77.0.119:5146
 #EXTINF:-1,tvg-id="湛江综合",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/zhanjiangzh.png",湛江综合
-rtp://@239.77.0.120:5146
+rtp://@239.77.0.141:5146
 #EXTINF:-1,tvg-id="湛江公共",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/zhanjianggg.png",湛江公共
-rtp://@239.77.0.121:5146
+rtp://@239.77.0.140:5146
 #EXTINF:-1,tvg-id="云浮1",tvg-logo="http://www.tvyan.com/uploads/dianshi/yunfu.jpg",云浮1
 http://185.239.226.6:5178/gdyx.php?id=yunfuyitao_1500
 #EXTINF:-1,tvg-id="云浮2",tvg-logo="http://www.tvyan.com/uploads/dianshi/yunfu.jpg",云浮2
@@ -374,7 +374,13 @@ rtp://@239.77.1.249:5146
 #EXTINF:-1,tvg-id="@大健康",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv1HD.png",@大健康
 rtp://@239.77.1.250:5146
 #EXTINF:-1,tvg-id="茶频道",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",茶频道
-rtp://@239.77.1.207:5146
+rtp://@239.77.0.15:5146
+#EXTINF:-1,tvg-id="茶频道",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福剧场
+rtp://@239.77.0.142:5146
+#EXTINF:-1,tvg-id="茶频道",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福娱乐
+rtp://@239.77.0.143:5146
+#EXTINF:-1,tvg-id="茶频道",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福风尚
+rtp://@239.77.0.144:5146
 #EXTINF:-1,tvg-id="湖南国际",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngj.png",湖南国际
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5015828848322021526/index.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b&version=1.0&owaccmark=5015828848322021526&owchid=hnbblive&owsid=1322670693083255189&AuthInfo=2sY0X2Vx81akpMe%2bGtvEyGwHTovKXM42q9Mu%2fRCpbzcl0GB%2fwmgGY7sZaERgy24YUTLL%2f%2ff1DzaaoRR9qHN0gOfgfZ3F0HbOchrpZ1jqUdoLgICRQLnhY%2fFVWQdpMeE2
 #EXTINF:-1,tvg-id="湖南都市",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hnds.png",湖南都市
@@ -494,7 +500,7 @@ http://202.107.188.149:5002/qincaimovie_hdcq-1.m3u8?token=XXZCagDnQmoB50Jq_yoong
 #EXTINF:-1,tvg-id="凤凰电影",tvg-logo="http://www.tvyan.com/uploads/dianshi/fhdyt.jpg",凤凰电影
 http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 #EXTINF:-1,tvg-id="CHC高清电影",tvg-logo="http://tvvgo.com/upload/vod/2019-01-03/201901031546445618.jpeg",CHC高清电影
-http://185.239.226.6:5178/gdyx.php?id=CHCHD_3000
+rtp://@239.77.0.27:5146
 #EXTINF:-1,tvg-id="CHC家庭影院",tvg-logo="http://www.tvyan.com/uploads/dianshi/chcjtyy.jpg",CHC家庭影院
 http://185.239.226.6:5178/gdyx.php?id=CHChometheatre_1500
 #EXTINF:-1,tvg-id="CHC动作电影",tvg-logo="http://tvvgo.com/upload/vod/2018-09-01/15358135560.jpg",CHC动作电影
