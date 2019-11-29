@@ -375,11 +375,11 @@ rtp://@239.77.1.249:5146
 rtp://@239.77.1.250:5146
 #EXTINF:-1,tvg-id="茶频道",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",茶频道
 rtp://@239.77.0.15:5146
-#EXTINF:-1,tvg-id="茶频道",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福剧场
+#EXTINF:-1,tvg-id="幸福剧场",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福剧场
 rtp://@239.77.0.142:5146
-#EXTINF:-1,tvg-id="茶频道",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福娱乐
+#EXTINF:-1,tvg-id="幸福娱乐",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福娱乐
 rtp://@239.77.0.143:5146
-#EXTINF:-1,tvg-id="茶频道",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福风尚
+#EXTINF:-1,tvg-id="幸福风尚",tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg",CBN幸福风尚
 rtp://@239.77.0.144:5146
 #EXTINF:-1,tvg-id="湖南国际",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngj.png",湖南国际
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5015828848322021526/index.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b&version=1.0&owaccmark=5015828848322021526&owchid=hnbblive&owsid=1322670693083255189&AuthInfo=2sY0X2Vx81akpMe%2bGtvEyGwHTovKXM42q9Mu%2fRCpbzcl0GB%2fwmgGY7sZaERgy24YUTLL%2f%2ff1DzaaoRR9qHN0gOfgfZ3F0HbOchrpZ1jqUdoLgICRQLnhY%2fFVWQdpMeE2
