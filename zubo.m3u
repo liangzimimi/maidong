@@ -35,9 +35,9 @@ http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/10000000020
 rtp://@239.77.0.198:5146
 #EXTINF:-1,tvg-id="CGTN",CGTN
 rtp://@239.77.0.45:5146
-#EXTINF:-1,tvg-id="爱上4K",tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575874375366&di=0daa73358229a99b01d02a5d6ed59948&imgtype=0&src=http%3A%2F%2Fimg.grtn.cn%2Fmaterial%2Fnews%2Fimg%2F1200x%2F2018%2F10%2F20181015191843wjUP.jpg%3Fcmi”，爱上4K
+#EXTINF:-1,tvg-id="爱上4K",tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575874375366&di=0daa73358229a99b01d02a5d6ed59948&imgtype=0&src=http%3A%2F%2Fimg.grtn.cn%2Fmaterial%2Fnews%2Fimg%2F1200x%2F2018%2F10%2F20181015191843wjUP.jpg%3Fcmi",爱上4K
 rtp://239.77.0.179:5146
-#EXTINF:-1,tvg-id="4k",tvg-logo="http://viewsonicglobal.com/public/upimgs/4K%20Ultra%20HD_logo_Full%20Color%281%29.png“，4K
+#EXTINF:-1,tvg-id="4k",tvg-logo="http://viewsonicglobal.com/public/upimgs/4K%20Ultra%20HD_logo_Full%20Color%281%29.png",4K
 http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
 #EXTINF:-1,tvg-id="zhuhaiyitao",tvg-logo="http://www.tvyan.com/uploads/dianshi/zhxwpd.jpg",珠海1
 rtp://@239.77.0.155:5146
