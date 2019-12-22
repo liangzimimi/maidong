@@ -506,9 +506,9 @@ http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 #EXTINF:-1,tvg-id="CHC高清电影",tvg-logo="http://tvvgo.com/upload/vod/2019-01-03/201901031546445618.jpeg",CHC高清电影
 rtp://239.77.0.27:5146
 #EXTINF:-1,tvg-id="CHC家庭影院",tvg-logo="http://www.tvyan.com/uploads/dianshi/chcjtyy.jpg",CHC家庭影院
-http://185.239.226.6:5178/gdyx.php?id=CHChometheatre_1500
+rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
 #EXTINF:-1,tvg-id="CHC动作电影",tvg-logo="http://tvvgo.com/upload/vod/2018-09-01/15358135560.jpg",CHC动作电影
-http://185.239.226.6:5178/gdyx.php?id=CHCactionmovie_1500
+rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
 #EXTINF:-1,高清电影
 http://185.239.226.6:5178/gdyx.php?id=FilmsHD_7000
 #EXTINF:-1,高清剧场
