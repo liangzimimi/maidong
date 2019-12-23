@@ -9,7 +9,7 @@ rtp://239.77.0.175:5146
 rtp://239.77.0.78:5146
 #EXTINF:-1,tvg-id="CCTV5",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5HD.png",CCTV5
 rtp://239.77.0.170:5146
-#EXTINF:-1,tvg-id="cctv5plus",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5+HD.png",CCTV5+
+#EXTINF:-1,tvg-id="cctv5+",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv5+HD.png",CCTV5+
 rtp://239.77.1.31:5146
 #EXTINF:-1,tvg-id="CCTV6",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv6HD.png",CCTV6
 rtp://239.77.0.171:5146
@@ -44,9 +44,9 @@ http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/10000000040
 #EXTINF:-1,tvg-id="极k",极K精选
 rtp://239.77.0.231:5146
 #EXTINF:-1,tvg-id="zhuhaiyitao",tvg-logo="http://www.tvyan.com/uploads/dianshi/zhxwpd.jpg",珠海1
-igmp://239.77.0.155:5146
+rtp://239.77.0.155:5146
 #EXTINF:-1,tvg-id="zhuhaiertao",tvg-logo="http://www.tvyan.com/uploads/dianshi/zhggpd.jpg",珠海2
-igmp://239.77.0.154:5146
+rtp://239.77.0.154:5146
 #EXTINF:-1,tvg-id="翡翠台",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/feicui.png",翡翠台
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1,tvg-id="明珠台",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/pearl.png",明珠台
@@ -69,25 +69,25 @@ rtp://239.77.0.112:5146
 rtp://239.77.0.88:5146
 #EXTINF:-1,tvg-id="zhejiang",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/zhejiangtvm.png",浙江卫视
 rtp://239.77.1.33:5146
-#EXTINF:-1,tvg-id="jiangsu",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/jiangsutvm.png",江苏卫视
+#EXTINF:-1,tvg-id="江苏卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/jiangsutvm.png",江苏卫视
 rtp://239.77.0.90:5146
-#EXTINF:-1,tvg-id="dongfang",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/dongfangtv.png",东方卫视
+#EXTINF:-1,tvg-id="东方卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/dongfangtv.png",东方卫视
 rtp://239.77.0.98:5146
-#EXTINF:-1,tvg-id="btv1",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/beijingtvm.png",北京卫视
+#EXTINF:-1,tvg-id="北京卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/beijingtvm.png",北京卫视
 rtp://239.77.0.91:5146
-#EXTINF:-1,tvg-id="shenzhen",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shenzhentvm.png",深圳卫视
+#EXTINF:-1,tvg-id="深圳卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shenzhentvm.png",深圳卫视
 rtp://239.77.0.92:5146
-#EXTINF:-1,tvg-id="shandong",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shandongtv.png",山东卫视
+#EXTINF:-1,tvg-id="山东卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/shandongtv.png",山东卫视
 rtp://239.77.1.142:5146
-#EXTINF:-1,tvg-id="sichuan",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/sichuantvm.png",四川卫视
+#EXTINF:-1,tvg-id="四川卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/sichuantvm.png",四川卫视
 rtp://239.77.0.159:5146
-#EXTINF:-1,tvg-id="chongqing",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/chongqingtvm.png",重庆卫视
+#EXTINF:-1,tvg-id="重庆卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/chongqingtvm.png",重庆卫视
 rtp://239.77.0.182:5146
-#EXTINF:-1,tvg-id="anhui",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/anhuitvm.png",安徽卫视
+#EXTINF:-1,tvg-id="安徽卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/anhuitvm.png",安徽卫视
 rtp://239.77.0.183:5146
-#EXTINF:-1,tvg-id="henan",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/henantvm.png",河南卫视
+#EXTINF:-1,tvg-id="河南卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/henantvm.png",河南卫视
 rtp://239.77.1.229:5146
-#EXTINF:-1,tvg-id="hebei",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hebeitvm.png",河北卫视
+#EXTINF:-1,tvg-id="河北卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hebeitvm.png",河北卫视
 rtp://239.77.0.148:5146
 #EXTINF:-1,tvg-id="jiangxi",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/jiangxitvm.png",江西卫视
 rtp://239.77.0.149:5146
@@ -124,9 +124,9 @@ rtp://239.77.0.85:5146
 #EXTINF:-1,tvg-id="南方卫视",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/tvs2.png",南方卫视
 rtp://239.77.0.9:5146
 #EXTINF:-1,tvg-id="广东影视",tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs4.jpg",广东影视
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=240&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+rtp://239.77.0.11:5146
 #EXTINF:-1,tvg-id="广东少儿",tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs5.jpg",广东少儿
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=232&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+rtp://239.77.0.12:5146
 #EXTINF:-1,tvg-id="房产频道",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/fangchan.png",房产频道
 rtp://239.77.0.14:5146
 #EXTINF:-1,tvg-id="岭南戏曲",tvg-logo="http://www.tvyan.com/uploads/dianshi/lingnanxiqu.jpg",岭南戏曲
@@ -487,6 +487,56 @@ http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/76815932420
 http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7951969344461811424&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=6311031568340761508&AuthInfo=SBawh%2B2oNX1KvwEX3Jnv%2BIvJUQJWvlU3HHUdn3wUkKxnfoYWaoR66cwPlMKP%2B87QgFYbeqQ9PAnhp4u%2Fpeugjs%2F7rawc8RZGr5Lw3%2BbaaMS7UJ8aFu1ahOeyyQUCotzs
 #EXTINF:-1,tvg-id="NewTV超级综艺",tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg",NewTV超级综艺
 http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000001000025771&owchid=ystenlive&owsid=1253111571120982517&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0QqlakFGjAtD0AU77Ig8lNgiK3IFvhXJmzXCo40jNt17F9uDLVTehtMiwtJ4RfUfJRoLy0SdBaMwN3%2Bb%2BQQMCx9tGqD
+#EXTINF:-1,tvg-id="黑帮电影",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,黑帮电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="电影大片",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,电影大片
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="热播电视剧",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,热播电视剧
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="家庭剧场",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,家庭剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="宫廷正剧",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,宫廷正剧
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="经典重温",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,经典重温
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="收视冠军",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,收视冠军
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="名侦探柯南",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,名侦探柯南
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="喜剧大咖",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,喜剧大咖
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xijudaka_1080p_t10/c15_lb_xijudaka_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="相声小品",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,相声小品
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="动作电影",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,动作电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="经典港片",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,经典港片
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="哆啦A梦",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,哆啦A梦
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="抗战剧场",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,抗战剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="小说改编",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,小说改编
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiaoshuogaibian_1080p_t10/c15_lb_xiaoshuogaibian_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="好莱坞大片",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,好莱坞大片
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="老年剧场",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,老年剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="怀旧剧场",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,怀旧剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="五星影院",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,五星影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="喜剧电影",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,喜剧电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="周末影院",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,周末影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="历史秘闻",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,历史秘闻
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="奇妙世界",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,奇妙世界
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qimiaoshijie_1080p_t10/c16_lb_qimiaoshijie_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="科学探索",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,科学探索
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080p_t10/c16_lb_kexuetansuo_1080p_t10.m3u8
+#EXTINF:-1,tvg-id="军事观察",tvg-logo="http://bqwert.gitee.io/91zuhuiyuan/resources/foot/iqiyi.png" ,军事观察
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
 #EXTINF:-1,tvg-id="看看新闻HD",tvg-logo="http://tvvgo.com/upload/vod/2018-12-18/15451386440.png",看看新闻HD
 http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
 #EXTINF:-1,tvg-id="华数偶像HD",tvg-logo="http://tvvgo.com/upload/vod/2018-12-18/15451386440.png",华数偶像HD
