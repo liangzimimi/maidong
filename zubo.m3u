@@ -22,7 +22,7 @@ rtp://239.77.0.135:5146
 #EXTINF:-1,tvg-id="CCTV10",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv10HD.png",CCTV10
 rtp://239.77.0.134:5146
 #EXTINF:-1,tvg-id="CCTV11",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv11HD.png",CCTV11
-http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6
+rtp://239.77.1.237:5146
 #EXTINF:-1,tvg-id="CCTV12",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv12HD.png",CCTV12
 rtp://239.77.0.136:5146
 #EXTINF:-1,tvg-id="CCTV13",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv13HD.png",CCTV13
@@ -30,7 +30,7 @@ rtp://239.77.1.26:5146
 #EXTINF:-1,tvg-id="cctv14",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv14HD.png",CCTV14
 rtp://239.77.0.133:5146
 #EXTINF:-1,tvg-id="CCTV15",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv15HD.png",CCTV15
-http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
+rtp://239.77.1.238:5146
 #EXTINF:-1,tvg-id="CCTV17",tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/cctv17m.png",CCTV17
 rtp://239.77.0.198:5146
 #EXTINF:-1,tvg-id="CGTN",CGTN
@@ -43,6 +43,8 @@ rtp://239.77.0.246:5146
 http://101.75.248.85/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
 #EXTINF:-1,tvg-id="极k",极K精选
 rtp://239.77.0.231:5146
+#EXTINF:-1,tvg-id="dox4k",tvg-logo="http://viewsonicglobal.com/public/upimgs/4K%20Ultra%20HD_logo_Full%20Color%281%29.png",dox4K
+http://183.238.77.9:9090/live/dox4k_16000.m3u8
 #EXTINF:-1,tvg-id="珠海1",tvg-logo="http://www.tvyan.com/uploads/dianshi/zhxwpd.jpg",珠海1
 rtp://239.77.0.155:5146
 #EXTINF:-1,tvg-id="珠海2",tvg-logo="http://www.tvyan.com/uploads/dianshi/zhggpd.jpg",珠海2
